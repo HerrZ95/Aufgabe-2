@@ -3,23 +3,9 @@
  <ul>
 <li>Bitte vervollständigen Sie diesen Satz in "<i>Hello world</i>".
   </ul>
+  Falls Sie Hilfe benötigen, können Sie sich gerne an mich wenden.
   
-
- <ul>
-        <li>Suchmaschinen
-            <ul>
-                <li>Google</li>
-                <li>Bing</li>
-                <li>Ask.com</li>
-            </ul>
-        </li>
-        <li>Verzeichnisse
-            <ul>
-                <li>Yahoo</li>
-                <li>Web.de</li>
-                <li>DMOZ</li>
-            </ul>
-        </li>
-        <li>Was anderes</li>
-        <li>Noch was anderes</li>
-    </ul>
+  Viel Erfolg!
+  
+  
+  
