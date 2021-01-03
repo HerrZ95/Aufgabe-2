@@ -1,2 +1,2 @@
 # Aufgabe-2
-Bitte vervollständigen Sie diesen Satz in  "Hello world".
+Bitte vervollständigen Sie diesen Satz in "Hello world".
