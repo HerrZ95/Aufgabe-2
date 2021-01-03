@@ -1,5 +1,5 @@
 # Aufgabe-2
-<img alt="JPG" src="https://banner2.cleanpng.com/20180422/kaq/kisspng-computer-icons-educational-assessment-organization-icon-material-5adcec90cb3957.5103307015244279208324.jpg" /> 
+<img alt="SVG" src="https://www.flaticon.com/svg/static/icons/svg/2097/2097184.svg" /> 
 
 <h3>A SVG Image with embedded link:</h3> 
 
