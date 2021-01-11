@@ -5,7 +5,7 @@
   </ul>
   Falls Sie Hilfe benötigen, können Sie sich gerne an mich wenden.
   
-  Viel Erfolg und gutes Gelingen!
+  Viel Erfolg!
   
   
   
